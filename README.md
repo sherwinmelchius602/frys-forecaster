@@ -1,4 +1,4 @@
-# 🍔 Fry's Burgers — Daily Forecast Dashboard
+# Fry's Burgers — Daily Forecast Dashboard
 
 A data-driven decision tool for Sally Fry's food truck business.  
 Built as part of the Capstone Project at **Mahindra University** (SMCC3206, Jan 2026).
